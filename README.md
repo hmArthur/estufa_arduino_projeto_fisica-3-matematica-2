@@ -12,6 +12,7 @@ Caso não tenha é possível "simular" utilizando a página de simulação, a me
    -Carregar o código da pasta arduino desse mesmo repositório através do USB na placa.
    (sendo antes necessário adicionar a biblioteca DHT11 adafruit a sua IDE, driver necessário para fazer uso do sensor de temperatura DHT11)
    <br/>
+   <br/>
 3.PASSO:
   Pela falta de um ESP-01 como servidor wifi, optamos por fazer a comunicacão serial da placa com um computador, fazendo o mesmo rodar uma API flask
   para permitir o acesso aos recursos da placa através de meios externos como websites e aplicativos.
@@ -22,7 +23,7 @@ Caso não tenha é possível "simular" utilizando a página de simulação, a me
    `pip install flask`<br/>
    com o código funcionando corretamente, basta ligar o arduino a seu computador e rodar o código python usando:<br/>
    `python index.py`<br/>
-
-``a partir desse momento todo o back-end já está em funcionamento``<br/>
+   
+``a partir desse momento todo o back-end já está em funcionamento``<br/><br/>
 4.PASSO: 
     -após baixar o front-end (com a placa) e abrir a pasta em sua IDE de escolha, basta rodar o HTML que ele automáticamente puxará os dados da API flask.
