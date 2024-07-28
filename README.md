@@ -11,6 +11,20 @@ Caso não tenha é possível "simular" utilizando a página de simulação, a me
    <img src="montagem2.jpeg" alt="montagem">
    <img src="montagem3.jpeg" alt="montagem">
 <br/>
+levantamento de materiais: <br/>
+   -arduino uno
+   -relé de 4 interruptores
+   -breadboard
+   (ligada na bread board)
+      -lampada (porta digital 4) 
+      -ventoinha (porta digital 2)
+      -bomba d'água (porta digital 7)
+   (+ 3 bateriais 9V para alimentar esses componentes)
+   -sensor dht11 de temperatura (porta analogica A0)
+   -sensor de gases (porta analogica A2)
+   -sensor umidade (porta analogica A1)
+   
+
 3. PASSO:
    -Carregar o código da pasta arduino desse mesmo repositório através do USB na placa.
    (sendo antes necessário adicionar a biblioteca DHT11 adafruit a sua IDE, driver necessário para fazer uso do sensor de temperatura DHT11)
