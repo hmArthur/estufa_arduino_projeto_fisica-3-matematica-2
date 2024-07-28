@@ -12,17 +12,17 @@ Caso não tenha é possível "simular" utilizando a página de simulação, a me
    <img src="montagem3.jpeg" alt="montagem">
 <br/>
 levantamento de materiais: <br/>
-   -arduino uno
-   -relé de 4 interruptores
-   -breadboard
-   (ligada na bread board)
-      -lampada (porta digital 4) 
-      -ventoinha (porta digital 2)
-      -bomba d'água (porta digital 7)
-   (+ 3 bateriais 9V para alimentar esses componentes)
-   -sensor dht11 de temperatura (porta analogica A0)
-   -sensor de gases (porta analogica A2)
-   -sensor umidade (porta analogica A1)
+   -arduino uno<br/>
+   -relé de 4 interruptores<br/>
+   -breadboard<br/>
+   (ligada na bread board)<br/>
+      -lampada (porta digital 4) <br/>
+      -ventoinha (porta digital 2)<br/>
+      -bomba d'água (porta digital 7)<br/>
+   (+ 3 bateriais 9V para alimentar esses componentes)<br/>
+   -sensor dht11 de temperatura (porta analogica A0)<br/>
+   -sensor de gases (porta analogica A2)<br/>
+   -sensor umidade (porta analogica A1)<br/>
    
 
 3. PASSO:
