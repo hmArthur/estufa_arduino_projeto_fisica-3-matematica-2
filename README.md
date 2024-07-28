@@ -7,9 +7,9 @@ Caso não tenha é possível "simular" utilizando a página de simulação, a me
 
 1. PASSO:
    -montagem do arduino da seguinte forma:
-   <img src="montagem1" alt="montagem">
-   <img src="montagem2" alt="montagem">
-   <img src="montagem3" alt="montagem">
+   <img src="montagem1.jpeg" alt="montagem">
+   <img src="montagem2.jpeg" alt="montagem">
+   <img src="montagem3.jpeg" alt="montagem">
 <br/>
 3. PASSO:
    -Carregar o código da pasta arduino desse mesmo repositório através do USB na placa.
