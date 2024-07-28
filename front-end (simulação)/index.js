@@ -16,7 +16,7 @@ let stop2 = true;
 function dados() {
     
     //https://dummyjson.com/c/489d-a754-40b6-864b para simular
-    fetch('http://dummyjson.com/c/489d-a754-40b6-864b')
+    fetch('https://dummyjson.com/c/489d-a754-40b6-864b')
     .then(response => response.json())
     .then(data => {
        
