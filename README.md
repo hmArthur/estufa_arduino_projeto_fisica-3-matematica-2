@@ -10,6 +10,7 @@ Caso não tenha é possível "simular" utilizando a página de simulação, a me
    <img src="montagem1.jpeg" alt="montagem">
    <img src="montagem2.jpeg" alt="montagem">
    <img src="montagem3.jpeg" alt="montagem">
+    <img src="montagem4.jpeg" alt="montagem">
 <br/>
 levantamento de materiais: <br/>
    -arduino uno<br/>
