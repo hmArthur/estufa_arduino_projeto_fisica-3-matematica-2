@@ -7,8 +7,11 @@ Caso não tenha é possível "simular" utilizando a página de simulação, a me
 
 1. PASSO:
    -montagem do arduino da seguinte forma:
+   <img src="montagem1" alt="montagem">
+   <img src="montagem2" alt="montagem">
+   <img src="montagem3" alt="montagem">
 <br/>
-2. PASSO:
+3. PASSO:
    -Carregar o código da pasta arduino desse mesmo repositório através do USB na placa.
    (sendo antes necessário adicionar a biblioteca DHT11 adafruit a sua IDE, driver necessário para fazer uso do sensor de temperatura DHT11)
    <br/>
