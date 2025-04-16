@@ -1,12 +1,8 @@
-# ESTUFA AUTOMATIZADA CONTROLADA PELA INTERNET COM ARDUINO
+# estufa controlada por arduino/api
 
-OBS: para testar devidamente o projeto é necessário o arduino com a montagem especifica* 
-Caso não tenha é possível "simular" utilizando a página de simulação, a mesma roda por si só.
 
-``TUTORIAL DE USO:``
 
-1. PASSO:
-   -montagem do arduino da seguinte forma:
+1. MONTAGEM:
    <img src="montagem1.jpeg" alt="montagem">
    <img src="montagem2.jpeg" alt="montagem">
    <img src="montagem3.jpeg" alt="montagem">
